@@ -142,7 +142,8 @@ h3{
     main{
         display: flex;
         flex-direction: column;
-        width: 375px;
+        max-width: 375px;
+        margin: 2rem;
     }
 
     .top_content{
