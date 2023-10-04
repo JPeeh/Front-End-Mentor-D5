@@ -109,6 +109,12 @@ h3{
     box-shadow: 0px 4px 10px rgba(0,0,0, .2);
     font-weight: 700;
     letter-spacing: .5px;
+    cursor: pointer;
+    transition: .2s linear;
+}
+
+.btn:hover{
+    background-color: hsl(71, 73%, 54%, .8);
 }
 
 .container-second-main_content{
